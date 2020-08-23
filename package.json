@@ -1,0 +1,19 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "This project is used to generate different backgrounds. \r Enjoy!",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kh-khalil/Background-Generator.git"
+  },
+  "author": "Khaled-Khalil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kh-khalil/Background-Generator/issues"
+  },
+  "homepage": "https://github.com/kh-khalil/Background-Generator#readme"
+}
